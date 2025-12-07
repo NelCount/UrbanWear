@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clsventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clsvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clslocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clslocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|d:\\nel\\ies\\tercer semestre\\laboratorio de programaci\u00F3n 3\\trabajo integrador\\urbanwear\\frmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmcotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmcotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsestadisticaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clsestadisticaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmestadisticaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmestadisticaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clsdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmmodificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmmodificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmmodificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmmodificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmestadisticaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmestadisticaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmbuscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmbuscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmcotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{201D8D10-EFEF-4A91-9554-83C6EBB1FDC2}|UrbanWear.csproj|solutionrelative:frmcotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAcercaDe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmAcercaDe.cs",
+              "RelativeDocumentMoniker": "frmAcercaDe.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmAcercaDe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAcercaDe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:23:00.167Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCotizacion.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmCotizacion.cs",
+              "RelativeDocumentMoniker": "frmCotizacion.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmCotizacion.cs",
+              "RelativeToolTip": "frmCotizacion.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:11:41.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmCotizacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmCotizacion.cs",
+              "RelativeDocumentMoniker": "frmCotizacion.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmCotizacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmCotizacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:03:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmStock.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmStock.cs",
+              "RelativeDocumentMoniker": "frmStock.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmStock.cs",
+              "RelativeToolTip": "frmStock.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:06:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsEstadisticaVenta.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsEstadisticaVenta.cs",
+              "RelativeDocumentMoniker": "clsEstadisticaVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsEstadisticaVenta.cs",
+              "RelativeToolTip": "clsEstadisticaVenta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:27:08.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmEstadisticaVentas.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmEstadisticaVentas.cs",
+              "RelativeDocumentMoniker": "frmEstadisticaVentas.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmEstadisticaVentas.cs",
+              "RelativeToolTip": "frmEstadisticaVentas.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwIYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:59:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmEstadisticaVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmEstadisticaVentas.cs",
+              "RelativeDocumentMoniker": "frmEstadisticaVentas.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmEstadisticaVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmEstadisticaVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:48:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsVendedor.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsVendedor.cs",
+              "RelativeDocumentMoniker": "clsVendedor.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsVendedor.cs",
+              "RelativeToolTip": "clsVendedor.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:48:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmBuscarVenta.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarVenta.cs",
+              "RelativeDocumentMoniker": "frmBuscarVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarVenta.cs",
+              "RelativeToolTip": "frmBuscarVenta.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wIoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:49:47.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmBuscarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarVenta.cs",
+              "RelativeDocumentMoniker": "frmBuscarVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmBuscarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:08:27.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsDetalleVenta.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsDetalleVenta.cs",
+              "RelativeDocumentMoniker": "clsDetalleVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsDetalleVenta.cs",
+              "RelativeToolTip": "clsDetalleVenta.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:13:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsVenta.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsVenta.cs",
+              "RelativeDocumentMoniker": "clsVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsVenta.cs",
+              "RelativeToolTip": "clsVenta.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:46:13.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmNuevaVenta.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevaVenta.cs",
+              "RelativeDocumentMoniker": "frmNuevaVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevaVenta.cs",
+              "RelativeToolTip": "frmNuevaVenta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwG0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:42:59.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmNuevaVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevaVenta.cs",
+              "RelativeDocumentMoniker": "frmNuevaVenta.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevaVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmNuevaVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:14:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwFoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:45:54.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmBuscarCliente.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarCliente.cs",
+              "RelativeDocumentMoniker": "frmBuscarCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarCliente.cs",
+              "RelativeToolTip": "frmBuscarCliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswEYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:40:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmBuscarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarCliente.cs",
+              "RelativeDocumentMoniker": "frmBuscarCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmBuscarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:39:03.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmStock.cs",
+              "RelativeDocumentMoniker": "frmStock.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmStock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmStock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:49:47.141Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBuscarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarProducto.cs",
+              "RelativeDocumentMoniker": "frmBuscarProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmBuscarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:04:03.503Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBuscarProducto.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarProducto.cs",
+              "RelativeDocumentMoniker": "frmBuscarProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmBuscarProducto.cs",
+              "RelativeToolTip": "frmBuscarProducto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:18:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmModificarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarProducto.cs",
+              "RelativeDocumentMoniker": "frmModificarProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmModificarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:19:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmModificarProducto.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarProducto.cs",
+              "RelativeDocumentMoniker": "frmModificarProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarProducto.cs",
+              "RelativeToolTip": "frmModificarProducto.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAQwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:20:08.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmModificarCliente.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarCliente.cs",
+              "RelativeDocumentMoniker": "frmModificarCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarCliente.cs",
+              "RelativeToolTip": "frmModificarCliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:52:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmNuevoCliente.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoCliente.cs",
+              "RelativeDocumentMoniker": "frmNuevoCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoCliente.cs",
+              "RelativeToolTip": "frmNuevoCliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:25:19.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmModificarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarCliente.cs",
+              "RelativeDocumentMoniker": "frmModificarCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmModificarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmModificarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:19:38.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsLocalidad.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsLocalidad.cs",
+              "RelativeDocumentMoniker": "clsLocalidad.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsLocalidad.cs",
+              "RelativeToolTip": "clsLocalidad.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:47:45.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsCategoria.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsCategoria.cs",
+              "RelativeDocumentMoniker": "clsCategoria.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsCategoria.cs",
+              "RelativeToolTip": "clsCategoria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:46:55.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsProducto.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsProducto.cs",
+              "RelativeDocumentMoniker": "clsProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsProducto.cs",
+              "RelativeToolTip": "clsProducto.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAuwBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:20:11.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCliente.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsCliente.cs",
+              "RelativeDocumentMoniker": "clsCliente.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\clsCliente.cs",
+              "RelativeToolTip": "clsCliente.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAqwIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:45:19.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmNuevoProducto.cs",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoProducto.cs",
+              "RelativeDocumentMoniker": "frmNuevoProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoProducto.cs",
+              "RelativeToolTip": "frmNuevoProducto.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAACYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:15:37.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmNuevoProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoProducto.cs",
+              "RelativeDocumentMoniker": "frmNuevoProducto.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\frmNuevoProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmNuevoProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:36:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\NEL\\IES\\TERCER SEMESTRE\\Laboratorio de Programaci\u00F3n 3\\Trabajo Integrador\\UrbanWear\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:12:41.848Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
