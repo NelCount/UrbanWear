@@ -164,3 +164,9 @@ Acerca de
 Cotización
 
 Stock general
+
+---
+
+📹 Demo del sistema
+
+https://drive.google.com/file/d/1-rukmT5Se6Ng73T8gQkmHAizBK8VxR_W/view?usp=sharing
