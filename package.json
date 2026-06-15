@@ -1,0 +1,30 @@
+{
+  "name": "urbanwear-json",
+  "version": "1.0.0",
+  "description": "Este proyecto corresponde a la primera entrega de la materia Aplicaciones Web 2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "node --watch backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelCount/urbanwear-json-aw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NelCount/urbanwear-json-aw2/issues"
+  },
+  "homepage": "https://github.com/NelCount/urbanwear-json-aw2#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mercadopago": "^3.1.0",
+    "mongoose": "^9.6.3"
+  }
+}

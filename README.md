@@ -1,172 +1,267 @@
-🧵 UrbanWear — Sistema de Gestión Comercial
+# UrbanWear 👕🛒
 
-Aplicación de escritorio desarrollada en C# (.NET / Windows Forms) para la gestión integral de productos, clientes y ventas.
-Este proyecto académico simula el funcionamiento de un sistema real utilizado en comercios minoristas, especialmente en el rubro indumentaria.
+Proyecto Full Stack desarrollado para la materia **Aplicaciones Web 2** de la carrera **Analista de Sistemas y Desarrollo de Software - IES Siglo 21**.
 
----
-
-🚀 Descripción general
-
-UrbanWear permite administrar todas las operaciones principales de un negocio:
-
-✔️ Productos: altas, bajas, modificaciones, búsqueda por filtros, control de bajo stock
-
-✔️ Clientes: registro, edición, eliminación, búsqueda dinámica
-
-✔️ Ventas: creación, consulta, filtros avanzados, impresión
-
-✔️ Estadísticas: gráficos de ventas por mes, cliente o vendedor
-
-✔️ Cotizaciones y pantallas de apoyo adicionales
-
-El proyecto está diseñado con una arquitectura modular, separación de capas lógicas y uso de ADO.NET para la interacción con la base de datos.
+UrbanWear es una tienda online de ropa urbana que permite visualizar productos, filtrarlos por categoría, registrarse e iniciar sesión, administrar un carrito de compras, generar órdenes de compra y realizar pagos mediante la integración de **Mercado Pago Checkout Pro (Sandbox)**.
 
 ---
 
-🧩 Tecnologías utilizadas
+# 🚀 Tecnologías utilizadas
 
-✔️ C# (.NET Framework)
+## Frontend
+- HTML5
+- CSS3
+- TailwindCSS
+- JavaScript (Vanilla JS)
+- LocalStorage
 
-✔️ Windows Forms
+## Backend
+- Node.js
+- Express.js
+- JWT (JSON Web Tokens)
+- bcryptjs
+- dotenv
 
-✔️ ADO.NET
+## Base de Datos
+- MongoDB Atlas
+- Mongoose
 
-✔️ Base de datos Access (MDB)
-
-✔️ Componentes Chart para estadísticas
-
-✔️ Newtonsoft.Json (dependencias gestionadas con NuGet)
-
----
-
-🗂️ Estructura del proyecto
-
-UrbanWear/
- ├── .vs/
- ├── Properties/
- ├── Resources/
- ├── packages/
- │    └── Newtonsoft.Json.13.0.3/
- ├── App.config
- ├── Program.cs
- ├── UrbanWear.csproj
- ├── UrbanWear.sln
- ├── packages.config
- ├── .gitignore
-
- ├── Form1.cs
- ├── Form1.Designer.cs
- ├── Form1.resx
-
- ├── clsCategoria.cs
- ├── clsCliente.cs
- ├── clsDetalleVenta.cs
- ├── clsEstadisticaVenta.cs
- ├── clsLocalidad.cs
- ├── clsProducto.cs
- ├── clsVendedor.cs
- ├── clsVenta.cs
-
- ├── frmAcercaDe.cs
- ├── frmAcercaDe.Designer.cs
- ├── frmAcercaDe.resx
-
- ├── frmBuscarCliente.cs
- ├── frmBuscarCliente.Designer.cs
- ├── frmBuscarCliente.resx
-
- ├── frmBuscarProducto.cs
- ├── frmBuscarProducto.Designer.cs
- ├── frmBuscarProducto.resx
-
- ├── frmBuscarVenta.cs
- ├── frmBuscarVenta.Designer.cs
- ├── frmBuscarVenta.resx
-
- ├── frmCotizacion.cs
- ├── frmCotizacion.Designer.cs
- ├── frmCotizacion.resx
-
- ├── frmEstadisticaVentas.cs
- ├── frmEstadisticaVentas.Designer.cs
- ├── frmEstadisticaVentas.resx
-
- ├── frmModificarCliente.cs
- ├── frmModificarCliente.Designer.cs
- ├── frmModificarCliente.resx
-
- ├── frmModificarProducto.cs
- ├── frmModificarProducto.Designer.cs
- ├── frmModificarProducto.resx
-
- ├── frmNuevaVenta.cs
- ├── frmNuevaVenta.Designer.cs
- ├── frmNuevaVenta.resx
-
- ├── frmNuevoCliente.cs
- ├── frmNuevoCliente.Designer.cs
- ├── frmNuevoCliente.resx
-
- ├── frmNuevoProducto.cs
- ├── frmNuevoProducto.Designer.cs
- ├── frmNuevoProducto.resx
-
- ├── frmStock.cs
- ├── frmStock.Designer.cs
- ├── frmStock.resx
+## Integraciones externas
+- Mercado Pago Checkout Pro (Sandbox)
 
 ---
 
-🧾 Funcionalidades principales
+# ✨ Funcionalidades principales
 
-📦 Gestión de productos
+### Usuarios
+- Registro de usuarios.
+- Inicio de sesión mediante autenticación JWT.
+- Encriptación de contraseñas con bcryptjs.
+- Persistencia de sesión mediante LocalStorage.
 
-Alta, baja y modificación
+### Productos
+- Listado dinámico de productos desde MongoDB.
+- Filtrado de productos por categoría.
+- Visualización de imágenes dinámicas.
+- Consulta individual de productos.
 
-Filtro combinados por nombre, categoría, talle y color
+### Carrito de compras
+- Agregar productos al carrito.
+- Persistencia del carrito mediante LocalStorage.
+- Modificación de cantidades.
+- Eliminación de productos.
+- Cálculo automático del total de la compra.
 
-Control automático de stock bajo
+### Ventas
+- Generación de órdenes de compra.
+- Asociación de compras al usuario autenticado.
+- Persistencia de ventas en MongoDB.
 
-Formularios dedicados + validaciones
-
-👥 Gestión de clientes
-
-Registro y edición completa de información
-
-Búsqueda dinámica (DNI, nombre, apellido, localidad)
-
-Validación estricta para evitar datos incompletos
-
-💲 Ventas
-
-Registro de nuevas ventas
-
-Listado con filtros múltiples
-
-Impresión del resultado filtrado
-
-Cálculo automático de totales
-
-📊 Estadísticas
-
-Ventas por mes
-
-Ventas por cliente
-
-Ventas por vendedor
-
-Actualización dinámica del Chart según selección
-
-📄 Pantallas adicionales
-
-Acerca de
-
-Cotización
-
-Stock general
+### Pagos
+- Integración con Mercado Pago Checkout Pro.
+- Generación de preferencias de pago desde el backend.
+- Apertura del Checkout oficial de Mercado Pago desde el carrito.
+- Implementación en entorno Sandbox para pruebas.
 
 ---
 
-📹 Demo del sistema
+# 🏗️ Arquitectura del proyecto
 
-[▶️ Ver video demostrativo (Google Drive)](https://drive.google.com/file/d/1-rukmT5Se6Ng73T8gQkmHAizBK8VxR_W/view?usp=sharing)
+```text
+Frontend (HTML + JavaScript + TailwindCSS)
+                    ↓
+        API REST (Node.js + Express.js)
+                    ↓
+       MongoDB Atlas (Mongoose ODM)
+                    ↓
+        Mercado Pago Checkout Pro
+```
+
+---
+
+# 📁 Estructura del proyecto
+
+```text
+UrbanWear-json
+│
+├── backend
+│   ├── config
+│   ├── middlewares
+│   ├── models
+│   ├── routes
+│   ├── seed
+│   └── index.js
+│
+├── frontend
+│   ├── assets
+│   │   └── images
+│   ├── js
+│   ├── index.html
+│   ├── carrito.html
+│   ├── login.html
+│   └── register.html
+│
+├── .env
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+---
+
+# ⚙️ Instalación y ejecución
+
+## Clonar el repositorio
+
+```bash
+git clone https://github.com/NelCount/urbanwear-json-aw2
+```
+
+## Ingresar al proyecto
+
+```bash
+cd UrbanWear-json
+```
+
+## Instalar dependencias
+
+```bash
+npm install
+```
+
+## Ejecutar el proyecto
+
+```bash
+npm run dev
+```
+
+El servidor se ejecutará en:
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 🔐 Variables de entorno
+
+Crear un archivo `.env` en la raíz del proyecto:
+
+```env
+PORT=3000
+MONGO_URI=tu_uri_de_mongodb
+JWT_SECRET=tu_clave_secreta
+MP_PUBLIC_KEY=tu_public_key
+MP_ACCESS_TOKEN=tu_access_token
+```
+
+---
+
+# 🌐 Endpoints principales
+
+## Usuarios
+
+### Obtener usuarios
+
+```http
+GET /api/v1/users/all
+```
+
+### Registrar usuario
+
+```http
+POST /api/v1/users/register
+```
+
+### Iniciar sesión
+
+```http
+POST /api/v1/users/login
+```
+
+---
+
+## Productos
+
+### Obtener productos
+
+```http
+GET /api/v1/products/all
+```
+
+### Obtener producto por ID
+
+```http
+GET /api/v1/products/:id
+```
+
+### Crear producto
+
+```http
+POST /api/v1/products/create
+```
+
+### Actualizar producto
+
+```http
+PUT /api/v1/products/update/:id
+```
+
+---
+
+## Ventas
+
+### Obtener ventas
+
+```http
+GET /api/v1/sales/all
+```
+
+### Crear venta
+
+```http
+POST /api/v1/sales/create
+```
+
+---
+
+## Pagos
+
+### Crear preferencia de pago
+
+```http
+POST /api/v1/payments/create-preference
+```
+
+---
+
+# 💳 Integración con Mercado Pago
+
+El proyecto integra **Mercado Pago Checkout Pro (Sandbox)**, permitiendo:
+
+- Generar preferencias de pago desde el backend.
+- Renderizar el botón oficial de Mercado Pago en el carrito.
+- Abrir el Checkout Pro directamente desde la aplicación.
+- Simular pagos en entorno de pruebas mediante credenciales Sandbox.
+
+---
+
+# 📈 Mejoras futuras
+
+- Panel de administración.
+- Gestión automática de stock.
+- Historial de compras por usuario.
+- Confirmación de pagos mediante Webhooks.
+- Recuperación de contraseña.
+- Deploy en producción.
+- Panel de métricas y reportes de ventas.
+
+---
+
+# 👨‍💻 Autor
+
+**Nelson**
+
+Proyecto académico desarrollado para la materia **Aplicaciones Web 2** de la carrera **Analista de Sistemas y Desarrollo de Software** - **IES Siglo 21**.
+
+Desarrollado utilizando tecnologías Full Stack modernas: **Node.js, Express, MongoDB, JWT y Mercado Pago Checkout Pro**.

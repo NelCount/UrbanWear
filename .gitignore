@@ -1,7 +1,3 @@
-bin/
-obj/
-*.user
-*.suo
-*.db
-*.mdb
-*.exe
+node_modules/
+package-lock.json
+.env
