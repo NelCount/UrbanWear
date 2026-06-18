@@ -2,6 +2,7 @@ import { Router } from 'express';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import User from '../models/User.js';
+import Sale from "../models/Sale.js";
 
 const router = Router();
 
@@ -114,17 +115,34 @@ router.post('/login', async (req, res) => {
 
 router.delete('/delete/:id', async (req, res) => {
     try {
-        const user = await User.findByIdAndDelete(req.params.id);
+        const userId = req.params.id;
 
-        if (!user) {
-            return res.status(404).json('Usuario no encontrado');
+        const ventasAsociadas = await Sale.find({ userId });
+
+        if (ventasAsociadas.length > 0) {
+        return res.status(400).json({
+            message: "No se puede eliminar el usuario porque tiene ventas asociadas"
+        });
         }
 
-        res.status(200).json('Usuario eliminado correctamente');
+        const usuarioEliminado = await User.findByIdAndDelete(userId);
+
+        if (!usuarioEliminado) {
+        return res.status(404).json({
+            message: "Usuario no encontrado"
+        });
+        }
+
+        return res.status(200).json({
+        message: "Usuario eliminado correctamente",
+        user: usuarioEliminado
+        });
 
     } catch (error) {
-        console.error(error);
-        res.status(500).json('Error al eliminar usuario');
+        return res.status(500).json({
+        message: "Error al eliminar usuario",
+        error: error.message
+        });
     }
 });
 
